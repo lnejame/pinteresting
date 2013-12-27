@@ -3,3 +3,12 @@ $navbar-inverse-bg: #34495e;
 $navbar-inverse-link-color: white;
 
 @import 'bootstrap';
+
+.center{
+    text-align: center;
+}
+
+.navbar-brand{
+    font-weight: bold;
+    font-family: cursive; 
+}
